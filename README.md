@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Sliding SingInn | SignUp Forms in React JS
+
+This repository contains code for responsive navbar in react with react-router functoinalities.
+
+If you want to learn how to create it please follow below tutorial:
+https://youtu.be/CtSraSqNbrg
+
+Images:
+
+![SignIn Form](https://raw.githubusercontent.com/codebucks27/React-sliding-signin-signup-form/main/screenshot-localhost_3000-2020.12.29-15_58_16.png)
+
+![SignUp Form](https://raw.githubusercontent.com/codebucks27/React-sliding-signin-signup-form/main/screenshot-localhost_3000-2020.12.29-15_58_47.png)     
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
