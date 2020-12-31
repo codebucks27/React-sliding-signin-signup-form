@@ -1,6 +1,6 @@
 # Sliding SingInn | SignUp Forms in React JS
 
-This repository contains code for responsive navbar in react with react-router functoinalities.
+This repository contains code for Sliding SingInn | SignUp Forms in react with styled-components functoinalities.
 
 If you want to learn how to create it please follow below tutorial:
 https://youtu.be/CtSraSqNbrg
